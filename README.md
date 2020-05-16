@@ -1,6 +1,7 @@
 # Tic Tac Toe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+Deployed to Firebase as a PWA: https://tic-tac-toe-80c3b.web.app/
 
 ## Development server
 
